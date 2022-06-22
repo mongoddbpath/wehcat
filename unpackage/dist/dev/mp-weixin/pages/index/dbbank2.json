@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "银行账号信息（可编辑）",
+  "navigationBarBackgroundColor": "#04A7F5",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "song-data-picker": "/components/song-data-picker/song-data-picker",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "pickersearch": "/components/song-data-picker/song-data-picker"
+  }
+}

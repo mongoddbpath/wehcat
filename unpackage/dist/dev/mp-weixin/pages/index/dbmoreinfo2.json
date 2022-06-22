@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "更多个人资料（可编辑）",
+  "navigationBarBackgroundColor": "#04A7F5",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "song-data-picker": "/components/song-data-picker/song-data-picker",
+    "u-calendar": "/uview-ui/components/u-calendar/u-calendar",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "u-picker": "/uview-ui/components/u-picker/u-picker"
+  }
+}

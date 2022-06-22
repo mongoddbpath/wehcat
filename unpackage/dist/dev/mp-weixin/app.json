@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/dbinfo",
+    "pages/index/dbinfo2",
+    "pages/index/dbinfo3",
+    "pages/index/dbbank",
+    "pages/index/dbbank2",
+    "pages/index/dbbank3",
+    "pages/index/dbsalary",
+    "pages/index/dbsalary2",
+    "pages/index/dbsalary3",
+    "pages/index/dbmoreinfo",
+    "pages/index/dbmoreinfo2",
+    "pages/index/dbmoreinfo3",
+    "pages/index/secret",
+    "pages/index/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

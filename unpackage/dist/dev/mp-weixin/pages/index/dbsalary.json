@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "正常工资薪金所得（必填）",
+  "navigationBarBackgroundColor": "#04A7F5",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "song-data-picker": "/components/song-data-picker/song-data-picker",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

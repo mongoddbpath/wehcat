@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人基本信息列表",
+  "navigationBarBackgroundColor": "#04A7F5",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

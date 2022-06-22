@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "电白二建小程序",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

@@ -1,0 +1,134 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "电白二建小程序",
+				"navigationStyle":"custom",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+					"path": "pages/index/dbinfo",
+					"style": {
+						"navigationBarTitleText": "基本信息（必填）登记",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbinfo2",
+					"style": {
+						"navigationBarTitleText": "个人基本信息（可编辑）",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbinfo3",
+					"style": {
+						"navigationBarTitleText": "个人基本信息列表",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbbank",
+					"style": {
+						"navigationBarTitleText": "银行账号（必填）登记",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbbank2",
+					"style": {
+						"navigationBarTitleText": "银行账号信息（可编辑）",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbbank3",
+					"style": {
+						"navigationBarTitleText": "银行账号信息列表",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbsalary",
+					"style": {
+						"navigationBarTitleText": "正常工资薪金所得（必填）",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbsalary2",
+					"style": {
+						"navigationBarTitleText": "正常工资薪金（可编辑）",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbsalary3",
+					"style": {
+						"navigationBarTitleText": "正常工资薪金列表",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbmoreinfo",
+					"style": {
+						"navigationBarTitleText": "更多个人资料（非必填）",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbmoreinfo2",
+					"style": {
+						"navigationBarTitleText": "更多个人资料（可编辑）",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/dbmoreinfo3",
+					"style": {
+						"navigationBarTitleText": "更多个人资料列表",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+		{
+					"path": "pages/index/secret",
+					"style": {
+						"navigationBarTitleText": "用户服务协议和隐私政策",
+						"navigationBarBackgroundColor":"#04A7F5",
+						"navigationBarTextStyle":"white"
+					}
+		},
+	    {
+            "path" : "pages/index/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uView",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
